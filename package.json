@@ -1,0 +1,26 @@
+{
+  "name": "micro-local-storage",
+  "version": "1.0.0",
+  "description": "Micro localstorage wrapper with expiry",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "local",
+    "micro",
+    "storage",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/micro-local-storage.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
